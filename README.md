@@ -7,4 +7,5 @@ Este repositorio contiene la app Android creada con lenguaje JAVA sobre una prue
 https://drive.google.com/file/d/1Bzg7hEFmAnJ7MWju2UT5bdGU_zBlymLr/view?usp=sharing
 
 ### Imagen
-![Descripción de la imagen](.https://i.imgur.com/sxG5HQD.png)
+![Captura](https://i.imgur.com/sxG5HQD.png)
+
